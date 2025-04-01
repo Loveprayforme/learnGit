@@ -3,4 +3,4 @@ Git is a free software!
 
 f1:111
 
-master::666
+fix conflict
